@@ -11,7 +11,7 @@ Sutarno, M.T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Dr. Ahmad Zarkarsi, M. T.
 
-![Logo Universitas Sriwijaya](https://github.com/SyaifulKaromah/foto-repo/blob/afa46f9c1746a24004c7106948d9a7adcf28a5be/1639367926_61ac53fbb7fda3f5b72f.png)
+![Logo Universitas Sriwijaya](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/main/ASSET/Picture1.png)
 
 Disusun Oleh:\
 Nama: Yesi Paramita\
@@ -110,68 +110,51 @@ Pada praktikum kali ini, kita menggunakan sistem operasi Linux, yaitu Ubuntu 22.
 
 1.	Sambungkan personal computer pada arus listrik
 2.	Hidupkan computer tunggu proses booting
-3. Tekan Tombol Baru
-4. Silakan buka aplikasi virtualbox, sehingga anda akan mendapati tampilannya 
+3. Silakan buka aplikasi virtualbox, sehingga anda akan mendapati tampilannya 
 seperti yang di tunjukkan pada gambar di bawah ini:
 
+   ![Langkah 3](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah%203.png)
 
-   ![Langkah 4](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step4.png)
+4. Kemudian klik new untuk membuat lingkungan virtual mesin yang baru sehingga tertampil seperti pada gambar di bawah ini: Beri nama virtual mesin anda, kemudian pilih type dan versi seusuai gambar
 
-5. Kemudian klik new untuk membuat lingkungan virtual mesin yang baru sehingga tertampil seperti pada gambar di bawah ini: Beri nama virtual mesin anda, kemudian pilih type dan versi seusuai gambar
+   ![Langkah 4](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah%204.png)
 
-   ![Langkah 5](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step5.png)
+5. Kemudian anda akan diminta membuat alokasi memory (RAM) virtual yang akan anda gunakan nantinya, sesuaikan dengan kapastias RAM di komputer anda seperti yang ditunjukkan pada gambar di bawah: saran saya maksimal separuh dari alokasi total RAM di komputer anda
 
-6. Kemudian anda akan diminta membuat alokasi memory (RAM) virtual yang akan anda gunakan nantinya, sesuaikan dengan kapastias RAM di komputer anda seperti yang ditunjukkan pada gambar di bawah: saran saya maksimal separuh dari alokasi total RAM di komputer anda
+   ![Langkah 5](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah5.png)
 
-   ![Langkah 6](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6.png)
+6. Kemudian anda akan diminta membuat virtual harddisk untuk mesin virtual anda seperti yang ditunjukkan pada gambar di bawah:
 
-   ![Langkah 6-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step6-2.png)
-
-7. Kemudian anda akan diminta membuat virtual harddisk untuk mesin virtual anda seperti yang ditunjukkan pada gambar di bawah:
-
-   ![Langkah 7](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step7.png)
-
-8. Setelah selesai, anda akan melihat tampilan seperti yang ditunjukkan pada gambar di bawah, dimana anda 
+   ![Langkah 6](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah%206.png)
+   
+7. Setelah selesai, anda akan melihat tampilan seperti yang ditunjukkan pada gambar di bawah, dimana anda 
 telah selesai membuat seuahmeisn virtual dengan platform Ubuntu:
 
+   ![Langkah 7](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah7.png)
 
-   ![Langkah 8](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step8.png)
+8. Silakan klik Setting di sebelah tombol Add di pojok kiri atas sehingga tertampil seperti pada gambar di bawah, untuk melakukan setting Display,untuk mengsetting memory dan minitor count,seperti gambar di bawah
 
-9. Silakan klik Setting di sebelah tombol Add di pojok kiri atas sehingga tertampil seperti pada gambar di bawah, untuk melakukan setting Display,untuk mengsetting memory dan minitor count,seperti gambar di bawah
+    ![Langkah 8](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah%208.png)
 
-    ![Langkah 9](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step9.png)
+9. Setelah itu kita klik star dan tampilannya akan seperti ini:
 
-10. Setelah itu kita klik star dan tampilannya akan seperti ini:
+    ![Langkah 9][(https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/Picture%209.png)
+   
+10. Kemudian kita nextkan terus sampai terdapat kata instal seperti gambar berikut:
 
-    ![Langkah 10](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step10.png)
-
-11. Kemudian kita nextkan terus sampai terdapat kata instal seperti gambar berikut:
-
-![Langkah 11](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step11.png)
+![Langkah 10.1](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/Picture10.jpg)
 
 Setelah kita lakukan instal tampilanya akan seperti ini:
 
-![Langkah 12](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step12.png)
+![Langkah 10.2](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/langkah%2011.jpg)
 
-12. Setelah itu kita tunggu proses instalasinya sampai selesai dan ubuntu sudah siap, bisa kita jalankan.Tampilannya akan seperti ini
+11. Setelah itu kita tunggu proses instalasinya sampai selesai dan ubuntu sudah siap, bisa kita jalankan.Tampilannya akan seperti ini
 
-![Langkah 13](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/step13.png)
+![Langkah 11](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/Picture12.jpg)
 
-13.	Selanjutnya klik start disebelah discard untuk membuka atau menjalakan ubuntu di virtualbox. Tampilan setelah kita klik start tadi akan seperti ini,jika sudah seperti ini ubuntu sudah siap digunakan.
+12.	Selanjutnya klik start disebelah discard untuk membuka atau menjalakan ubuntu di virtualbox. Tampilan setelah kita klik start tadi akan seperti ini,jika sudah seperti ini ubuntu sudah siap digunakan.
 
-![Langkah 14](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/loading.png)
-
-15. Kemudian, "Restart now"
-
-![Langkah 15](https://github.com/SyaifulKaromah/foto-repo/blob/c9f20bf27a7fc03518c6200053bb3de74a7459e6/restartnow.png)
-
-![Langkah 15-2](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/booting.png)
-
-16. Ubuntu telah selesai di install
-
-</div>
-
-   ![Langkah 16](https://github.com/SyaifulKaromah/foto-repo/blob/9797ba3bfb71e27f75f3f8eadd4a7099ad99a2bf/selesai.png)
+![Langkah 12](https://github.com/yesiparamita/LAPORAN-PRATIKUM-SISTEM-OPERASI-INSTALASI-SISTEM-OPERASI-LINUX-UBUNTU-1/blob/6a38b1c4f79d6ef7d7a3a0b184df2242b3068e0e/ASSET/Picture13.jpg)
 
 
 <div align="center">
