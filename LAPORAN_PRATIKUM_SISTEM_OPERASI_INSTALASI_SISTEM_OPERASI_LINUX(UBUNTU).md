@@ -265,7 +265,8 @@ Dapat disimpulkan bahwa Ubuntu adalah sistem operasi yang dikembangkan berdasark
 
 ## Analisislah pada gambar kenapa saat instalasi perlu dipilih "/" pada opsi mount point?
 
-![Mount Point Selection](https://github.com/SyaifulKaromah/foto-repo/blob/e433532cee5da6d4afdc9639eebc9ae06a79300b/Mount.png)
+![Cuplikan layar 2024-09-03 193612](https://github.com/user-attachments/assets/e9fe87e1-a1b5-40ad-b6b2-e75f88fbe7ff)
+
 
 <br>
 
