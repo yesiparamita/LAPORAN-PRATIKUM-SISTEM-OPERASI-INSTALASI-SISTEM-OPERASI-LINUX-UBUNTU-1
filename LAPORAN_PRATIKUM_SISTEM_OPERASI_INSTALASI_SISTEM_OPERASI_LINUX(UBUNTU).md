@@ -255,9 +255,9 @@ Dapat disimpulkan bahwa Ubuntu adalah sistem operasi yang dikembangkan berdasark
 # Soal 2
 
 ## Informasi Mahasiswa
-- Nama: Yesi Paramita
-- NIM: 09011182328116
-- Kelas: SK3B
+ Nama  : Yesi Paramita.\
+ NIM   : 09011182328116.\
+ Kelas : SK3B
 
 <br>
 
@@ -290,21 +290,12 @@ Dapat disimpulkan bahwa Ubuntu adalah sistem operasi yang dikembangkan berdasark
 <br>
 <br>
 
-[←    BACK](#praktikum-1---sistem-operasi)
+
 # Soal 3
-
-## Informasi Mahasiswa
-- Nama: Yesi Paramita
-- NIM: 09011182328116
-- Kelas: SK3B
-
-<br>
 
 <div align="Justify">
 
 ## Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs ! 
-
-<br>
 
 ## Jawab:
 
